@@ -43,5 +43,5 @@ int main()
 		total_time=total_time*1000;
 		cout << total_time << "\n";
 	}
-		return 0;
+	return 0;
 }
